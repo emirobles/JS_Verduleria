@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/da/a2/08/daa20883df24b40d62850a84414482d5.jpg);
+    text-align: center; 
+    margin: 0px; 
+    font-family: 'Finlandica', sans-serif; 
+    font-weight: bolder; 
+    color: white; 
+    text-shadow: 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; 
+}
+
+h1{
+    color: rgb(240, 237, 90);
+    margin-top: 0px;
+    background-color: rgba(161, 214, 130, 0.856);
+    padding: 20px;
+}
+
+h2{
+    color: rgb(243, 242, 187)
+}
+
+footer{
+        background-color: #008d07ab;
+        color: #e8f6f9;
+        margin-top: 80px;
+        padding: 20px;
+}
+
+img{
+    height: 150px;
+}
+
+.div-padre{
+    border: 2px solid;
+    border-radius: 6px;
+    border-color: green;
+    width: 300px;
+    height: 380px;
+    margin: 10px;
+    background-color: rgba(142, 240, 86, 0.445);
+}
+
+#listaDeVerduras{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
